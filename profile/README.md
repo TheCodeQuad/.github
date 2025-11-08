@@ -1,7 +1,9 @@
-# 🌱 Welcome to TheCodeQuad  
+# 🌱 TheCodeQuad  
 
-**TheCodeQuad** is a collaborative GitHub organization created to explore, build, and share software projects.  
+**TheCodeQuad** is a private collaborative organization created as part of our academic and research initiatives.  
 
-We focus on **frontend, backend, and documentation**, using modern technologies and best practices.  
+It serves as a secure workspace for managing, testing, and maintaining our software projects, under a structured and professional environment.  
 
-This space is our hub to **learn, experiment, and showcase** the projects we create.  
+Our focus lies in **AI-based systems**, **software architecture**, and **intelligent automation**, developed following clean coding principles and industry-grade practices.  
+
+> _This organization is used solely for academic and research purposes._
